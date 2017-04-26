@@ -1,0 +1,53 @@
+Eevee @ Eevium Z  
+Ability: Anticipation  
+Level: 50  
+EVs: 228 HP / 28 Def / 252 Spe  
+Timid Nature  
+- Helping Hand  
+- Last Resort  
+- Baton Pass  
+- Protect  
+
+Espeon @ Wiki Berry  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Stored Power  
+- Dazzling Gleam  
+- Morning Sun  
+- Protect  
+
+Smeargle @ Focus Sash  
+Ability: Moody  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Spore  
+- Follow Me  
+- Wide Guard  
+
+Krookodile @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 20 Atk / 76 Def / 164 SpD / 4 Spe  
+Adamant Nature  
+- Power Trip  
+- Earthquake  
+- Rock Slide  
+- Protect  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+EVs: 252 HP / 60 Def / 196 SpA  
+Calm Nature  
+IVs: 0 Atk  
+- Muddy Water  
+- Moonblast  
+- Psych Up  
+- Protect  
+
+
