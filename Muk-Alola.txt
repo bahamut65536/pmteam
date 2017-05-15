@@ -1,0 +1,63 @@
+Muk-Alola @ Figy Berry  
+Ability: Gluttony  
+Level: 50  
+EVs: 188 HP / 244 Atk / 44 Def / 20 SpD / 12 Spe  
+Adamant Nature  
+- Poison Jab  
+- Knock Off  
+- Curse  
+- Protect  
+
+Ninetales-Alola @ Focus Sash  
+Ability: Snow Warning  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Icy Wind  
+- Aurora Veil  
+- Protect  
+
+Arcanine @ Aguav Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 188 Def / 68 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Snarl  
+- Will-O-Wisp  
+- Protect  
+
+Garchomp @ Groundium Z  
+Ability: Rough Skin  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Tapu Koko @ Choice Scarf  
+Ability: Electric Surge  
+Level: 50  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Timid Nature  
+- Dazzling Gleam  
+- Discharge  
+- Volt Switch  
+- Sky Drop  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+Level: 50  
+EVs: 28 HP / 108 Atk / 220 Def / 4 SpA / 148 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Leech Seed  
+- Toxic  
+- Protect  
+
+
