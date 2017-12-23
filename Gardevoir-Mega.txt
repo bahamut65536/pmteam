@@ -1,7 +1,7 @@
 Gardevoir-Mega @ Gardevoirite  
 Ability: Pixilate  
 Level: 50  
-EVs: 252 HP / 36 Def / 220 SpA  
+EVs: 252 HP / 220 Def / 36 SpA  
 Modest Nature  
 IVs: 0 Atk  
 - Hyper Voice  
@@ -9,7 +9,7 @@ IVs: 0 Atk
 - Trick Room  
 - Protect  
 
-Landorus-Therian (M) @ Choice Scarf  
+Landorus-Therian @ Choice Scarf  
 Ability: Intimidate  
 Level: 50  
 EVs: 76 HP / 252 Atk / 180 Spe  
@@ -28,7 +28,7 @@ IVs: 0 Atk
 - Thunderbolt  
 - Hidden Power [Ice]  
 - Tailwind  
-- Protect  
+- Roost  
 
 Milotic @ Wacan Berry  
 Ability: Competitive  
@@ -51,13 +51,15 @@ Adamant Nature
 - Ice Punch  
 - Poison Jab  
 
-Sableye @ Focus Sash  
-Ability: Prankster  
+Hydreigon @ Life Orb  
+Ability: Levitate  
 Level: 50  
-EVs: 252 HP / 4 Def / 252 SpD  
-Calm Nature  
-- Fake Out  
-- Foul Play  
-- Sunny Day  
-- Quash  
+EVs: 12 HP / 252 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Draco Meteor  
+- Flamethrower  
+- Tailwind  
+
 
