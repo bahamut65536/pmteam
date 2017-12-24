@@ -30,36 +30,35 @@ IVs: 0 Atk
 - Tailwind  
 - Roost  
 
-Milotic @ Wacan Berry  
-Ability: Competitive  
+Incineroar @ Assault Vest  
+Ability: Blaze  
 Level: 50  
-EVs: 252 HP / 236 Def / 20 SpA  
-Modest Nature  
-IVs: 0 Atk  
-- Scald  
-- Icy Wind  
-- Recover  
-- Haze  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Snarl  
 
-Buzzwole @ Assault Vest  
+Kartana @ Focus Sash  
 Ability: Beast Boost  
 Level: 50  
-EVs: 68 HP / 172 Atk / 4 Def / 252 SpD / 12 Spe  
-Adamant Nature  
-- Superpower  
-- Leech Life  
-- Ice Punch  
-- Poison Jab  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Protect  
 
-Hydreigon @ Life Orb  
+Rotom-Wash @ Wiki Berry  
 Ability: Levitate  
 Level: 50  
-EVs: 12 HP / 252 SpA / 244 Spe  
-Timid Nature  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
 IVs: 0 Atk  
-- Dark Pulse  
-- Draco Meteor  
-- Flamethrower  
-- Tailwind  
+- Hydro Pump  
+- Thunderbolt  
+- Snatch  
+- Will-O-Wisp  
 
 
